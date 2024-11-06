@@ -41,4 +41,5 @@ def lider4(x):
             lider[0].append(i)
     return lider
 
+print('Example')
 print(*lider4(x))
